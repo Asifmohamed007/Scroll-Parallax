@@ -14,7 +14,7 @@
 
  Scroll-Parallax is a fully responsive Scroll-Parallax website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://scroll-parallax.app"><strong>➥ Live Demo</strong></a>
+  <a href="https://scroll-parallax.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
